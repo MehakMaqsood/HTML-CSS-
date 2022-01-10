@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Mr. Khan's webpage</title>
+    <style>
+      img {
+        width: 150px;
+        border-radius: 50px;
+        float: left;
+        margin-right: 10px;
+      }
+      .username {
+        font-weight: bold;
+      }
+      body {
+        background-color: grey;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="images/shery.jpeg" alt="an Image of shery_khan" />
+    <p class="username">@shery_khan</p>
+
+    <p>If ya wanna be cool like me, then hit follow ;)</p>
+  </body>
+</html>
